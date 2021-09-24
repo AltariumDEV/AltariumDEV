@@ -1,8 +1,10 @@
-# Hello there! 🎇
+# Hello there!
 
-My name is Altarium (or Altar)
-I am a software developer specializing in making dumb stuff using languages that are weird.
-My main languages are JavaScript and Lua (Yea, Lua. That really old scripting language)
+My name is Altarium (or Altar). I am a software developer specializing in making software using mostly Javascript/Typescript.
+
+Main Languages are deceiving as I don't actually publish the projects that I make in Javascript.
+
+I usually push my newer projects that don't have to do with JS here.
 
 Here are some fancy stats that are made using anuraghazra's readme stats repo:  
 <a href="https://github.com/anuraghazra/github-readme-stats">
