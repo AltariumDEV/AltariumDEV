@@ -12,7 +12,4 @@ Here are some fancy stats that are made using anuraghazra's readme stats repo
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AltariasMainAccount&langs_count=6&theme=dark&hide_border=true&card_width=500" />
-</a>  
-
-
-<br>I hope you have a fantastic morning/day/evening/night.
+</a>
